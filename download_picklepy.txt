@@ -1,0 +1,6 @@
+(.venv) PS C:\Users\LENOVO\Desktop\SentinalAI\Home_Security> python download_pickle_encodings.py
+🔄 Fetching encodings from Supabase...
+✔ Encodings loaded → Family: 3 | Criminals: 2
+🔄 Fetching encodings from Supabase...
+📡 Started encoding poller (every 30 seconds)
+✔ Encodings loaded → Family: 3 | Criminals: 2
